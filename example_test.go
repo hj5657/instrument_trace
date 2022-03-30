@@ -1,4 +1,3 @@
-// instrument_trace/example_test.go
 package trace_test
 
 import (
